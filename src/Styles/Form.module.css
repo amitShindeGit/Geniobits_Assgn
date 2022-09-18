@@ -1,0 +1,27 @@
+.formMainDIv{
+    /* background-color: "black"; */
+    padding: 2rem;
+    background-color: #F6F5FB;
+    border-radius: .5rem;
+}
+
+.formDIv{
+    display: flex;
+    flex-direction: column;
+}
+
+.formDIv input{
+    padding: .8rem 6rem;
+    border-radius: .5rem;
+    border: none;
+
+    margin: 1rem 0 1rem 1rem;
+}
+
+.formBtn{
+    border-radius: 1rem;
+    padding: 1rem;
+    background-color: #76BC21;
+    border: none;
+    cursor: pointer;
+}

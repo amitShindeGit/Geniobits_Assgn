@@ -1,0 +1,17 @@
+.mainDiv{
+    display: flex;
+}
+
+.midDIv{
+    top: 10%;
+    left: 30%;
+    position:fixed;
+}
+
+.midSideBarCompDIv{
+    top: 20%;
+    left: 30%;
+    position:fixed;
+    width: 50%;
+    
+}
